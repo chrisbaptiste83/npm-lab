@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "npm lab package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbaptiste83/npm-lab.git"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisbaptiste83/npm-lab/issues"
+  },
+  "homepage": "https://github.com/chrisbaptiste83/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
